@@ -478,7 +478,7 @@
   headingNodes.forEach(function(node){
     link = createEl('a');
     icon = createEl('img');
-    icon.src = 'https://orzgeeker.github.io/OrzYoutuber/images/icons/link.svg';
+    icon.src = 'https://youtuber.jokerhub.cn/images/icons/link.svg';
     link.className = 'link';
     link.appendChild(icon);
     id = node.getAttribute('id');
