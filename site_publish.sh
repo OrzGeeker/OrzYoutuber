@@ -25,8 +25,6 @@ git worktree add -B gh-pages ${SITE_PUB_DIR} origin/gh-pages
 echo "Removing existing files"
 rm -rf ${SITE_PUB_DIR}/*
 
-echo "youtuber.jokerhub.cn" > ${SITE_PUB_DIR}/CNAME
-
 echo "Generating site"
 hugo -s "${SITE_ROOT}" -e production
 
