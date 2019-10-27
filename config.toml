@@ -1,4 +1,4 @@
-baseurl = "https://youtuber.jokerhub.cn/"  # Include trailing slash
+baseurl = "https://youtuber.jokerhub.cn"  # Include trailing slash
 title = "OrzYoutuber"
 theme = "swift"
 author = "王志舟"
