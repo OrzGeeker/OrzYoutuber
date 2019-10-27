@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on OrzYoutuber</title>
-    <link>https://youtuber.jokerhub.cn/tags/</link>
+    <link>https://orzgeeker.github.io/OrzYoutuber/tags/</link>
     <description>Recent content in Tags on OrzYoutuber</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2019-xxx all rights reserved.</copyright>
     
-	<atom:link href="https://youtuber.jokerhub.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://orzgeeker.github.io/OrzYoutuber/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OrzYoutuber</title>
-    <link>https://youtuber.jokerhub.cn/</link>
+    <link>https://orzgeeker.github.io/OrzYoutuber/</link>
     <description>Recent content on OrzYoutuber</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2019-xxx all rights reserved.</copyright>
     <lastBuildDate>Sun, 27 Oct 2019 21:39:29 +0800</lastBuildDate>
     
-	<atom:link href="https://youtuber.jokerhub.cn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://orzgeeker.github.io/OrzYoutuber/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Skill</title>
-      <link>https://youtuber.jokerhub.cn/video/skill/</link>
+      <link>https://orzgeeker.github.io/OrzYoutuber/video/skill/</link>
       <pubDate>Sun, 27 Oct 2019 21:39:29 +0800</pubDate>
       
-      <guid>https://youtuber.jokerhub.cn/video/skill/</guid>
+      <guid>https://orzgeeker.github.io/OrzYoutuber/video/skill/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Youber入门</title>
-      <link>https://youtuber.jokerhub.cn/posts/introduction/</link>
+      <link>https://orzgeeker.github.io/OrzYoutuber/posts/introduction/</link>
       <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
       
-      <guid>https://youtuber.jokerhub.cn/posts/introduction/</guid>
+      <guid>https://orzgeeker.github.io/OrzYoutuber/posts/introduction/</guid>
       <description></description>
     </item>
     
