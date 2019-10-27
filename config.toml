@@ -1,0 +1,4 @@
+baseURL = "https://orzyoutuber.jokerhub.cn"
+languageCode = "en-us"
+title = "OrzYoutuber"
+theme = "swift"
