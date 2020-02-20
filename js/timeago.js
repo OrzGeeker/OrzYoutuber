@@ -53,6 +53,3 @@ function populateCommentsTime(nodes) {
 const durations = document.querySelectorAll('.comment_heading');
 
 populateCommentsTime(durations);
-t durations = document.querySelectorAll('.comment_heading');
-
-populateCommentsTime(durations);
