@@ -19,4 +19,4 @@ draft: false
 
 ## 后期处理
 
-1. [iMovie教程](https://help.apple.com/imovie/mac/10.1/?lang=zh-cn)
+1. [Mac iMovie教程](https://help.apple.com/imovie/mac/10.1/?lang=zh-cn)
