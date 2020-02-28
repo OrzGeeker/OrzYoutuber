@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
 #-*- utf-8 -*-
 
-open http://localhost:1313 && hugo server -D
+pkill -9 hugo
+hugo server -D &
+sleep 2s && open http://localhost:1313
