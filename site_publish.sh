@@ -36,3 +36,4 @@ cd ${SITE_PUB_DIR} && echo "youtuber.jokerhub.cn" > CNAME && git add --all && gi
 echo "Pushing to github"
 cd - 
 git push --all
+open http://youtuber.jokerhub.cn
