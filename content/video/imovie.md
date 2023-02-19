@@ -1,14 +1,8 @@
 ---
 title: "iMovie技巧学习"
 date: 2020-02-19T22:06:41+08:00
-description: ""
-tags: [
-]
-categories: [
-]
+author: "joker"
 image: "iMovie.png"
-author: "王志舟"
-draft: false
 ---
 
 

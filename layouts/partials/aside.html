@@ -1,0 +1,13 @@
+{{ $kin := (where .Site.RegularPages ".Params.tags" "intersect" .Params.tags) }}
+{{ $siblings := (where $kin ".Title" "!=" .Title) }}
+{{ with $siblings }}
+{{ else }}
+  {{ $kin = (where .Site.RegularPages "Section" .Section) }}
+  {{ $siblings = (where $kin ".Title" "!=" .Title) }}
+{{ end }}
+<h3>{{ i18n "moreFrom" $siblings }}</h3>
+<ul class='posts aside'>
+  {{ range first 2 $siblings }}
+    {{ partial "excerpt.html" . }}
+  {{ end }}
+</ul>

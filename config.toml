@@ -1,16 +1,16 @@
 baseurl = "https://youtuber.jokerhub.cn/"  # Include trailing slash
 title = "OrzYoutuber"
 theme = "swift"
-author = "王志舟"
-copyright = "Copyright © 2019-xxx all rights reserved."
+author = "joker"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
 canonifyurls = true
 paginate = 4
-# Enable syntax highlighting
-# comment on delete the following lines 11 ~ 13
 pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
+  github_repo = "https://github.com/OrzGeeker/OrzYoutuber.git"
   # ga_analytics = "" # google analytics ID e.g UA-116386578-1
 
   # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
