@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/joker/Documents/OrzYoutuber",
+	"sourceRoot": "/home/runner/work/OrzYoutuber/OrzYoutuber",
 	"sources": [
 		"themes/swift/assets/scss/main.scss",
 		"themes/swift/assets/scss/_fonts.scss",
