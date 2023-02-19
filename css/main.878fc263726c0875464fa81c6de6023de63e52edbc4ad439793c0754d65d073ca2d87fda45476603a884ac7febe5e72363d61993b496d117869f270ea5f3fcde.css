@@ -300,7 +300,7 @@ aside h3 {
 }
 
 .copy::before {
-  content: "Share Story";
+  content: "分享故事";
   font-size: 0.8rem;
   width: 5.4rem;
   padding: 0.25rem;
@@ -311,7 +311,7 @@ aside h3 {
 }
 
 .copy_done::before {
-  content: "Link Copied";
+  content: "已复制";
 }
 
 .copy:hover::before, .copy:hover::after {

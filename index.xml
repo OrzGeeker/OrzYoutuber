@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OrzYoutuber</title>
+    <title>  on OrzYoutuber</title>
     <link>https://youtuber.jokerhub.cn/</link>
-    <description>Recent content on OrzYoutuber</description>
+    <description>Recent content in   on OrzYoutuber</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2019-xxx all rights reserved.</copyright>
-    <lastBuildDate>Wed, 19 Feb 2020 22:06:41 +0800</lastBuildDate>
-    
-	<atom:link href="https://youtuber.jokerhub.cn/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Feb 2020 22:06:41 +0800</lastBuildDate><atom:link href="https://youtuber.jokerhub.cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iMovie技巧学习</title>
       <link>https://youtuber.jokerhub.cn/video/imovie/</link>
@@ -18,12 +14,12 @@
       
       <guid>https://youtuber.jokerhub.cn/video/imovie/</guid>
       <description>iMovie是苹果免费的视频剪辑软件，移动设备项目可以导入电脑处理。是入门剪辑的好助手。剪辑就是讲故事。
-iMovie的特点：  即时存储，不担心断电或死机 磁性时间线，方便调整片段，iMovie首创 苹果设备间无缝衔接，与Final Cut兼容 免费  界面四部分：  资源库列表: 统一管理所有视频 浏览器 检视器 时间线: 浏览头(白色竖线)  导入素材 iMovie基于项目进行剪辑，但项目不存储视频，只是保存片段拼接方法等相关信息。素材都在资源库里面存储。资源库可以创建多个。
+iMovie的特点： 即时存储，不担心断电或死机 磁性时间线，方便调整片段，iMovie首创 苹果设备间无缝衔接，与Final Cut兼容 免费 界面四部分： 资源库列表: 统一管理所有视频 浏览器 检视器 时间线: 浏览头(白色竖线) 导入素材 iMovie基于项目进行剪辑，但项目不存储视频，只是保存片段拼接方法等相关信息。素材都在资源库里面存储。资源库可以创建多个。
 素材管理得当可以提高剪辑效率。
 素材浏览和筛选 在浏览器中，对所有素材预览
 设置调整片段的长短
 快捷键使用, 可以不使用鼠标
-素材浏览  L 播放素材，多次按L可以快进播放素材 K 停止播放素材 J 回看素材，多次按J可以调整回看的播放速度  素材区域选择  I 设备片段的入点 O 设备片段的出点  素材片段评级  F 设置片段为喜欢(绿色) Del 设置片段为拒绝(红色) U 恢复片段评级 橙色的片段表示已经被使用 点击片段后点加号，添加到时间线  素材插入时间线  E 插入素材到时间线尾部 W 插入素材到时间线浏览头(白色竖线)位置 Q 片段插入主时间线上方(B-roll)，覆盖主时间线内容  磁性时间线部分  CMD + = 缩放时间线 Shift + Z 恢复时间线缩放 CMD + Z 还原 Shift + CMD + Z 撤销 CMD + B 以浏览头为标准分割片段，可以同进分割多个通道，默认分割主时间线的片段 空格 播放时间线 option + / 删除浏览头前面的内容 ,/.</description>
+素材浏览 L 播放素材，多次按L可以快进播放素材 K 停止播放素材 J 回看素材，多次按J可以调整回看的播放速度 素材区域选择 I 设备片段的入点 O 设备片段的出点 素材片段评级 F 设置片段为喜欢(绿色) Del 设置片段为拒绝(红色) U 恢复片段评级 橙色的片段表示已经被使用 点击片段后点加号，添加到时间线 素材插入时间线 E 插入素材到时间线尾部 W 插入素材到时间线浏览头(白色竖线)位置 Q 片段插入主时间线上方(B-roll)，覆盖主时间线内容 磁性时间线部分 CMD + = 缩放时间线 Shift + Z 恢复时间线缩放 CMD + Z 还原 Shift + CMD + Z 撤销 CMD + B 以浏览头为标准分割片段，可以同进分割多个通道，默认分割主时间线的片段 空格 播放时间线 option + / 删除浏览头前面的内容 ,/.</description>
     </item>
     
     <item>
@@ -32,7 +28,7 @@ iMovie的特点：  即时存储，不担心断电或死机 磁性时间线，�
       <pubDate>Thu, 06 Feb 2020 12:40:16 +0800</pubDate>
       
       <guid>https://youtuber.jokerhub.cn/phone/phone_camera/</guid>
-      <description> 使用iPhone进行视频创作 </description>
+      <description>使用iPhone进行视频创作 </description>
     </item>
     
     <item>
@@ -41,8 +37,8 @@ iMovie的特点：  即时存储，不担心断电或死机 磁性时间线，�
       <pubDate>Sun, 27 Oct 2019 21:39:29 +0800</pubDate>
       
       <guid>https://youtuber.jokerhub.cn/video/skill/</guid>
-      <description> 一直以来想尝试做一下自媒体，那么做自媒体的设备就是必需考虑的问题了。因为我是一个喜欢简单的人，所以设备也不应该过于复杂，下面就列一下我所使用的最小自媒体设备集。
- 手机 自动平衡支架(自拍+三角架) 电脑用于后期处理/剪辑  后期处理  Mac iMovie教程  </description>
+      <description>一直以来想尝试做一下自媒体，那么做自媒体的设备就是必需考虑的问题了。因为我是一个喜欢简单的人，所以设备也不应该过于复杂，下面就列一下我所使用的最小自媒体设备集。
+手机 自动平衡支架(自拍+三角架) 电脑用于后期处理/剪辑 前期工作 前期录制时要注意声音不要带入环境中的杂音，这样后期处理起来就比较简单了。可以使用耳机来录制 考虑观众屏幕的大小，让视频的内容呈现比较适应屏幕尺寸，让观众看起来更加舒服 视频码率可以选择4K/1080p，现在的视频网站都有转码能力，一般选择最清晰的视频上传 视频拍摄过期中尽量减少使用嗯、啊或者杂音等词，这会让视频显示的很low，引起观众反感 后期处理 如果前期录制时不小心录入了噪声，需要在对音频进行降噪处理 Mac iMovie教程 </description>
     </item>
     
     <item>
@@ -53,8 +49,8 @@ iMovie的特点：  即时存储，不担心断电或死机 磁性时间线，�
       <guid>https://youtuber.jokerhub.cn/posts/introduction/</guid>
       <description>首先，由于中国的特殊国情，存在长城防火墙这种东西，所以需要有一个稳定的翻墙手段，来登录和上传你的Youtube视频。
 Youtube可以接广告的要求是:
- 年观看总时长4000小时 订阅人数达到1000人 可以在Youtube分析中查看你的订阅者数量和观看时长  成为Youtuber的步骤:
- 使用Google账号注册Youtube 观看其它的up主怎样在视频中表达自己 给自己的频道写一个使命一样的东西 标题简短，缩略图 如何让订阅者关注自己的频道 算法推荐依赖观看时长，订阅是增加观看时长最快的方式 做的视频要有特色、真实，从视频的内容和配音 视频上传的频率、视频种类、更新日历 找到一个平衡点  </description>
+年观看总时长4000小时 订阅人数达到1000人 可以在Youtube分析中查看你的订阅者数量和观看时长 成为Youtuber的步骤:
+使用Google账号注册Youtube 观看其它的up主怎样在视频中表达自己 给自己的频道写一个使命一样的东西 标题简短，缩略图 如何让订阅者关注自己的频道 算法推荐依赖观看时长，订阅是增加观看时长最快的方式 做的视频要有特色、真实，从视频的内容和配音 视频上传的频率、视频种类、更新日历 找到一个平衡点 </description>
     </item>
     
   </channel>

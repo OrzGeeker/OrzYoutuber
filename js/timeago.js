@@ -14,29 +14,28 @@ function calculateTimeSince(num){
 
   if (timeSince < minute ) {
     timeAgo = 1;
-    timeTag = ' MIN';
+    timeTag = timeAgo < 2 ? '分钟' : '分钟';
   } else if (timeSince > minute && timeSince < hour ) {
     timeAgo = Math.ceil(timeSince / minute);
-    timeTag = ' MIN';
+    timeTag = timeAgo < 2 ? '分钟' : '分钟';
   } else if (timeSince > hour && timeSince < day ) {
     timeAgo = Math.floor(timeSince / hour);
-    timeTag = ' HR';
+    timeTag = timeAgo < 2 ? '小时' : '小时';
   } else if (timeSince > day && timeSince < week) {
     timeAgo = Math.floor(timeSince / day);
-    timeTag = ' DAY';
+    timeTag = timeAgo < 2 ? '日' : '日';
   } else if (timeSince > week && timeSince < month) {
     timeAgo = Math.floor(timeSince / week);
-    timeTag = ' WK';
+    timeTag = timeAgo < 2 ? '星期' : '星期';
   } else if (timeSince > month && timeSince < year) {
     timeAgo = Math.floor(timeSince / month);
-    timeTag = ' MONTH';
+    timeTag = timeAgo < 2 ? '个月' : '个月';
   } else if (timeSince > year) {
     timeAgo = Math.floor(timeSince / year);
-    timeTag = ' YR';
+    timeTag = timeAgo < 2 ? '年' : '年';
   }
 
-  let decorator = timeAgo < 2 ? ' AGO' : 'S AGO';
-  return `${timeAgo}&nbsp;${timeTag}${decorator}`;
+  return `发表于 ${timeAgo}&nbsp;${timeTag} 前`;
 }
 
 function populateCommentsTime(nodes) {
