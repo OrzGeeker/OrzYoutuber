@@ -5,3 +5,4 @@ themes/learn/*
 themes/swift/*
 resources/
 public/
+.hugo_build.lock

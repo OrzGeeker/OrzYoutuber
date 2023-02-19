@@ -3,4 +3,5 @@
 
 pkill -9 hugo
 hugo server -D &
-sleep 2s && open http://localhost:1313
+sleep 2s
+open http://localhost:1313/
